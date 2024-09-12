@@ -1,4 +1,5 @@
-# Scraps Algorithm
+# SCRAPS Algorithm
+- Secure Cryptographic Retention and Progressive Storage
 
 ## Overview
 
