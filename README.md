@@ -9,3 +9,7 @@ This algorithm aim is to securely storing and managing confidential data. the co
 - **Secure Data Management**: Data is hashed and organized in tiers, making it difficult for unauthorized access and data recovery extremely challenging.
 - **Periodic Trashing**: Data is periodically moved to deeper tiers, resemblling the effect of real life trash or scraps continue to pile up, thus providing more security.
 - **Resource-Intensive Retrieval**: Retrieving data requires significantly more computational resources and enhancing security against potential attacks.
+
+This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) - see the [LICENSE](./LICENSE) file for more details.
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
