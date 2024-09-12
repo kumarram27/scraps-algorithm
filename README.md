@@ -11,5 +11,5 @@ This algorithm aim is to securely storing and managing confidential data. the co
 - **Resource-Intensive Retrieval**: Retrieving data requires significantly more computational resources and enhancing security against potential attacks.
 
 This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) - see the [LICENSE](./LICENSE) file for more details.
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
 
